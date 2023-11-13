@@ -72,3 +72,11 @@ This project explores how WhatsApp ensures secure and private communication betw
 
 - This stack is in line with current industry trends, ensuring the project remains relevant and up-to-date.
 - Cloud plataform provides high reliability, scalability and performance with low latency besides the seamless experiencie to manage infrastructure.
+
+
+## References
+
+[WhatsApp
+Encryption Overview
+Technical white paper](
+https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.8562-6/384251896_820338303082371_8514785982310046047_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=ItX8NTqxgW8AX_z_v79&_nc_oc=AQnqzS67OnrijAwDv13ngY_TuI5gcYIFL2mJQAVCMN1ZcdXLJxVvX4nCv5yIakT03RZeWqDM0ZEJJN_lFnv2mFEH&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfAYp4K1ozEx1mxVYeiI-3MDyxUs4CBszQi1wbLt1mKJog&oe=65539411)
