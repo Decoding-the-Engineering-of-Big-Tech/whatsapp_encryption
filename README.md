@@ -78,5 +78,4 @@ This project explores how WhatsApp ensures secure and private communication betw
 
 [WhatsApp
 Encryption Overview
-Technical white paper](
-https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.8562-6/384251896_820338303082371_8514785982310046047_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=ItX8NTqxgW8AX_z_v79&_nc_oc=AQnqzS67OnrijAwDv13ngY_TuI5gcYIFL2mJQAVCMN1ZcdXLJxVvX4nCv5yIakT03RZeWqDM0ZEJJN_lFnv2mFEH&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfAYp4K1ozEx1mxVYeiI-3MDyxUs4CBszQi1wbLt1mKJog&oe=65539411)
+Technical white paper](https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.8562-6/383236184_722587863039320_5040651063228680393_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=TMCHR3mTV-oAX9qZk_8&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfCPY6_en6qwm43ca8JXTc7bSLCx-ff0DWcO6_HaztMryA&oe=65581F84)
