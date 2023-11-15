@@ -79,3 +79,5 @@ This project explores how WhatsApp ensures secure and private communication betw
 [WhatsApp
 Encryption Overview
 Technical white paper](https://scontent.fcgh3-1.fna.fbcdn.net/v/t39.8562-6/383236184_722587863039320_5040651063228680393_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=TMCHR3mTV-oAX9qZk_8&_nc_ht=scontent.fcgh3-1.fna&oh=00_AfCPY6_en6qwm43ca8JXTc7bSLCx-ff0DWcO6_HaztMryA&oe=65581F84)
+
+[WhatsApp‘s End to End Encryption, How does it work?](https://medium.com/@panghalamit/whatsapp-s-end-to-end-encryption-how-does-it-work-80020977caa0)
